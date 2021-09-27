@@ -1,0 +1,19 @@
+{
+  "name": "Dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.11.8",
+    "discord.js": "^12.3.1",
+    "minecraft-server-util": "^3.0.3",
+    "net": "^1.0.2",
+    "util.js": "0.0.0"
+  }
+}
