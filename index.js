@@ -4,7 +4,7 @@ const client = new Discord.Client();
 const config = require("./config.json");
 
 client.on("ready", () => {
-  console.log(`TrCraft - BOT iniciado com sucesso! Created by: LawL#0719 / lawlidev.tk`); 
+  console.log(`TR - BOT iniciado com sucesso! Created by: LawL#0719 / lawlidev.tk`); 
   client.user.setActivity(`em jogar.trcraft.com.br`);
 });
 
